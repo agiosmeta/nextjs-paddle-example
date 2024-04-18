@@ -11,7 +11,7 @@ const Product = ({ product }) => {
         src="https://cdn.paddle.com/paddle/paddle.js"
         onLoad={() => {
           Paddle.Setup({
-            vendor: 123456,
+            vendor: 18989,
             // debug: true,
           });
         }}
